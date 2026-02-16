@@ -1,6 +1,6 @@
 # 🌱 EWaste Tracker - AI-Powered Blockchain E-Waste Platform
 
-> **Hackathon MVP**: Transparent e-waste lifecycle tracking with blockchain immutability and AI-powered environmental impact measurement.
+> **MVP**: Transparent e-waste lifecycle tracking with blockchain immutability and AI-powered environmental impact measurement.
 
 ---
 
@@ -282,7 +282,7 @@ Get aggregate statistics
 | Layer | Technology | Why |
 |-------|-----------|-----|
 | **Blockchain** | Polygon Mumbai | Fast, low-cost testnet |
-| **Smart Contract** | Solidity 0.8.19 | Industry standard |
+| **Smart Contract** | Solidity 0.8.19  |
 | **Backend** | Node.js + TypeScript | Type safety, async handling |
 | **API** | Express | Minimal, proven |
 | **Frontend** | Next.js 14 | SSR, performance, SEO |
@@ -291,22 +291,13 @@ Get aggregate statistics
 
 ---
 
-## 🎯 Future Enhancements (Post-Hackathon)
 
-- [ ] ML model for impact prediction
-- [ ] Multi-chain support (Ethereum, BSC)
-- [ ] IoT integration (QR codes, NFC tags)
-- [ ] Recycling facility partnerships
-- [ ] NFT certificates for recycled devices
-- [ ] Carbon credit tokenization
-- [ ] Mobile app (React Native)
-- [ ] Government dashboard integration
 
 ---
 
 ## 📝 License
 
-MIT License - Built for hackathon demonstration
+MIT License 
 
 ---
 
@@ -330,4 +321,4 @@ Issues? Questions?
 - Review browser console for errors
 - Verify blockchain transactions on PolygonScan
 
-**Demo-ready in 15 minutes. Impact-ready forever.** 🌍
+**Impact-ready forever.** 🌍
