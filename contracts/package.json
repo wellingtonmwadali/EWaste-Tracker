@@ -1,0 +1,23 @@
+{
+  "name": "ewaste-tracker-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for AI-powered e-waste tracking platform",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:mumbai": "hardhat run deploy.ts --network mumbai",
+    "deploy:local": "hardhat run deploy.ts --network hardhat",
+    "verify": "hardhat verify --network mumbai"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@types/node": "^20.19.33",
+    "hardhat": "^2.19.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  }
+}

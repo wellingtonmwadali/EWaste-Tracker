@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Data storage
+data-store.json
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log

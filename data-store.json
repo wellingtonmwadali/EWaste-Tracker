@@ -1,0 +1,154 @@
+{
+  "deviceMetadata": [
+    [
+      2,
+      {
+        "weight": 5,
+        "location": "nairobi",
+        "transportDistance": 30
+      }
+    ],
+    [
+      3,
+      {
+        "weight": 4,
+        "location": "seattle",
+        "transportDistance": 30
+      }
+    ],
+    [
+      4,
+      {
+        "weight": 4,
+        "location": "Seattle",
+        "transportDistance": 30
+      }
+    ]
+  ],
+  "projectedImpacts": [
+    [
+      2,
+      {
+        "deviceId": 2,
+        "co2Saved": 559.99,
+        "toxicWastePrevented": 0.75,
+        "sustainabilityScore": 70,
+        "impactType": "projected"
+      }
+    ],
+    [
+      3,
+      {
+        "deviceId": 3,
+        "co2Saved": 447.99,
+        "toxicWastePrevented": 0.6,
+        "sustainabilityScore": 63,
+        "impactType": "projected"
+      }
+    ],
+    [
+      4,
+      {
+        "deviceId": 4,
+        "co2Saved": 447.99,
+        "toxicWastePrevented": 0.6,
+        "sustainabilityScore": 63,
+        "impactType": "projected"
+      }
+    ]
+  ],
+  "verifiedImpacts": [
+    [
+      2,
+      {
+        "deviceId": 2,
+        "co2Saved": 559.99,
+        "toxicWastePrevented": 0.75,
+        "sustainabilityScore": 70,
+        "impactType": "verified"
+      }
+    ],
+    [
+      3,
+      {
+        "deviceId": 3,
+        "co2Saved": 447.99,
+        "toxicWastePrevented": 0.6,
+        "sustainabilityScore": 63,
+        "impactType": "verified"
+      }
+    ],
+    [
+      4,
+      {
+        "deviceId": 4,
+        "co2Saved": 447.99,
+        "toxicWastePrevented": 0.6,
+        "sustainabilityScore": 63,
+        "impactType": "verified"
+      }
+    ]
+  ],
+  "timelines": [
+    [
+      2,
+      [
+        {
+          "status": "Disposed",
+          "timestamp": 1770992064648,
+          "transactionHash": "0x67ab9b26ed026a4a09f997c5f08de9429718ec4048c6a8455c091d4d01b0c300"
+        },
+        {
+          "status": "Collected",
+          "timestamp": 1770992097818,
+          "transactionHash": "0x7301c2ec0f0984100b3306a5b4a2782638b38cf0f28bdd3ea588d28ba3b365ec"
+        },
+        {
+          "status": "Recycled",
+          "timestamp": 1770992126589,
+          "transactionHash": "0x4a901db395a00cba54f57a9804f0ce2a4127754c28fee6a10985ab38028a92a8"
+        }
+      ]
+    ],
+    [
+      3,
+      [
+        {
+          "status": "Disposed",
+          "timestamp": 1771228299078,
+          "transactionHash": "0x07acc626174a384035ac8d14c21401ee352032469e63556358b25bfcac8c9f08"
+        },
+        {
+          "status": "Collected",
+          "timestamp": 1771228354912,
+          "transactionHash": "0xe0543f9bbbc84cf07576ddaad643a7d514db3e20ea722d2dca8afa422267ca6e"
+        },
+        {
+          "status": "Recycled",
+          "timestamp": 1771228382984,
+          "transactionHash": "0x0c9b65bf129ad5511c5fba0c6c24b9253796ad0655ef9a9ed1da4403b5e7e13c"
+        }
+      ]
+    ],
+    [
+      4,
+      [
+        {
+          "status": "Disposed",
+          "timestamp": 1771230703308,
+          "transactionHash": "0x1d5e7f2b1d2bd057c67751719be4da9306b7c48e4f9f3854cd9c69ed6a76a2dc"
+        },
+        {
+          "status": "Collected",
+          "timestamp": 1771230735004,
+          "transactionHash": "0xeef57f5195544cbfc6cf542411c61342d639137100701a49971996865650e8df"
+        },
+        {
+          "status": "Recycled",
+          "timestamp": 1771230767461,
+          "transactionHash": "0xe065f0fd22a7c6889d5c7f73300c13dabed78eb6c8522cc2f9ff2c40ee61338c"
+        }
+      ]
+    ]
+  ]
+}
